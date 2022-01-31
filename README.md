@@ -6,3 +6,5 @@
 - php artisan breeze:install
 - npm install 
 - npm run dev
+- criar a bd e mudar no .ENV
+- php artisan migrate
